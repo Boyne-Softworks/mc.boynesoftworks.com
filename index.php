@@ -10,7 +10,7 @@
         <section class="clean-block clean-hero" style="">
             <div class="text">
               <h2>Welcome to the Boyne Softworks Minecraft Server Page</h2>
-              <p><a href="./mods">MODS DOWNLOAD HERE!</a></p>
+              <p><a href="https://mega.nz/#F!KiZD2IIZ!E0ZXyhnGyIp9mK22GPR6uw">MODS DOWNLOAD HERE!</a></p>
                 <?php
                  if (isset($_SESSION['useruid'])) {
                    echo '<form action="includes/logout.inc.php" method="post">
